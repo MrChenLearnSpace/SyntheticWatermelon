@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b4052f024bec45248912f5aeacd959aa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - combineClip1: {fileID: 8300000, guid: 304a1ea7ca9881146aa322e3d52ba6af, type: 3}
+  - other: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
